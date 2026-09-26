@@ -1,5 +1,3 @@
-#ifndef PODSYSTEM_CPP
-#define PODSYSTEM_CPP
 
 #include "Decive.cpp"
 
