@@ -4,8 +4,7 @@
 class Device : public Produk {
 protected:
     string tipeDevice;
-    int kapasitasBaterai; // mAh
-    int wattMaksimal;     // Watt
+    int kapasitasBaterai; 
 
 public:
     Device() : Produk() {
