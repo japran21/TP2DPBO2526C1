@@ -1,6 +1,3 @@
-#ifndef PRODUK_CPP
-#define PRODUK_CPP
-
 #include <iostream>
 #include <string>
 
@@ -50,4 +47,4 @@ public:
     }
 };
 
-#endif
+
