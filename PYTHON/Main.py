@@ -112,5 +112,4 @@ def main():
 
     print("\nTerima kasih telah menggunakan sistem VAPESTORE!")
 
-if __name__ == '__main__':
     main()
