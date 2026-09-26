@@ -1,5 +1,3 @@
-#ifndef DECIVE_CPP
-#define DECIVE_CPP
 
 #include "produk.cpp"
 
