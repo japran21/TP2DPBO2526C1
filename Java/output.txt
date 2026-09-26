@@ -1,0 +1,76 @@
+=========================================
+               VAPESTORE                
+=========================================
+1. Tampilkan Semua Produk (Tabel)
+2. Tambah Produk Baru
+3. Ubah Data Produk
+4. Hapus Produk
+5. Keluar
+Pilih menu [1-5]: 1
+
+==========================================================================================================
+                                           DAFTAR PRODUK VAPESTORE                                       
+==========================================================================================================
++------+----------------+--------------+------+--------------+-----------+-------+-----------+----------+------------+
+| ID   | Nama Produk    | Harga (Rp)   | Stok | Tipe         | Baterai   | Watt  | Cartridge | Coil     | Airflow    |
++------+----------------+--------------+------+--------------+-----------+-------+-----------+----------+------------+
+| P01  | Caliburn G3    | 320000       | 15   | Pod System   | 900 mAh   | 25 W  | 2.5 ml    | 0.6 Ohm  | Adjustable |
+| P02  | XROS 3 Mini    | 280000       | 20   | Pod System   | 1000 mAh  | 16 W  | 2.0 ml    | 0.8 Ohm  | Fixed MTL  |
++------+----------------+--------------+------+--------------+-----------+-------+-----------+----------+------------+
+
+=========================================
+               VAPESTORE                
+=========================================
+1. Tampilkan Semua Produk (Tabel)
+2. Tambah Produk Baru
+3. Ubah Data Produk
+4. Hapus Produk
+5. Keluar
+Pilih menu [1-5]: 2
+
+--- TAMBAH PRODUK BARU ---
+Masukkan ID Produk     : P03
+Masukkan Nama Produk   : Ursa Nano Pro 2
+Masukkan Harga (Rp)    : 270000
+Masukkan Jumlah Stok   : 12
+Masukkan Tipe Device   : Pod System
+Masukkan Baterai (mAh) : 1000
+Masukkan Watt Maksimal : 30
+Masukkan Cartridge(ml) : 2.5
+Masukkan Coil (Ohm)    : 0.8
+Masukkan Tipe Airflow  : Adjustable
+
+-> Produk berhasil ditambahkan!
+
+=========================================
+               VAPESTORE                
+=========================================
+1. Tampilkan Semua Produk (Tabel)
+2. Tambah Produk Baru
+3. Ubah Data Produk
+4. Hapus Produk
+5. Keluar
+Pilih menu [1-5]: 1
+
+==========================================================================================================
+                                           DAFTAR PRODUK VAPESTORE                                       
+==========================================================================================================
++------+----------------+--------------+------+--------------+-----------+-------+-----------+----------+------------+
+| ID   | Nama Produk    | Harga (Rp)   | Stok | Tipe         | Baterai   | Watt  | Cartridge | Coil     | Airflow    |
++------+----------------+--------------+------+--------------+-----------+-------+-----------+----------+------------+
+| P01  | Caliburn G3    | 320000       | 15   | Pod System   | 900 mAh   | 25 W  | 2.5 ml    | 0.6 Ohm  | Adjustable |
+| P02  | XROS 3 Mini    | 280000       | 20   | Pod System   | 1000 mAh  | 16 W  | 2.0 ml    | 0.8 Ohm  | Fixed MTL  |
+| P03  | Ursa Nano Pro 2| 270000       | 12   | Pod System   | 1000 mAh  | 30 W  | 2.5 ml    | 0.8 Ohm  | Adjustable |
++------+----------------+--------------+------+--------------+-----------+-------+-----------+----------+------------+
+
+=========================================
+               VAPESTORE                
+=========================================
+1. Tampilkan Semua Produk (Tabel)
+2. Tambah Produk Baru
+3. Ubah Data Produk
+4. Hapus Produk
+5. Keluar
+Pilih menu [1-5]: 5
+
+Terima kasih telah menggunakan sistem VAPESTORE!
