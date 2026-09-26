@@ -3,9 +3,9 @@
 
 class PodSystem : public Device {
 private:
-    double kapasitasCartridge; // ml
-    double resistansiCoil;     // Ohm
-    string tipeAirflow;        // Adjustable / Fixed
+    double kapasitasCartridge; 
+    double resistansiCoil;     
+    string tipeAirflow;        
 
 public:
     PodSystem() : Device() {
